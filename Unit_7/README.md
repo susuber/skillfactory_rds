@@ -66,7 +66,7 @@ https://www.kaggle.com/c/sf-dst-car-price-prediction/overview
 
 [Choose_a_car_profitably2.ipynb](Choose_a_car_profitably2.ipynb) - ноутбук с полным и еда выводами, а также переобучением модели, вызванное большим колличеством данных
 
-[APP6.ipynb](APP6.ipynb) - первый ноут бук с первым беглым EDA не имеющий дополнительных данных полученных при парсинге и результатом зафиксированном на [Kaggle](https://www.kaggle.com)
+[APP6.ipynb](APP6.ipynb) - первый ноут бук с первым беглым EDA не имеющий дополнительных данных полученных при парсинге и результатом зафиксированном на [Kaggle](https://www.kaggle.com/c/sf-dst-car-price-prediction/leaderboard)
 
 ## Выводы:
 
