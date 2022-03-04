@@ -59,9 +59,13 @@ https://www.kaggle.com/c/sf-dst-car-price-prediction/overview
 ## Структура репозитория:
 
 [parsing_by_car_brands.py](parsing_by_car_brands.py) - скрипт для парсинга данных о продоваемых поддержаных машинах в городе Москва с сайта [auto.ru](https://auto.ru/) по списку брендов до 20.02.2022 г.
+
 [parsing_for_file_links.py](parsing_for_file_links.py) - скрипт для парсинга данных о продоваемых поддержаных машинах в городе Москва с сайта [auto.ru](https://auto.ru/) по списку ссылок на страницы с продоваемыми машинами до 20.02.2022 г.
+
 [New_parsing_by_car_brands.py](New_parsing_by_car_brands.py) - скрипт для парсинга данных о продоваемых поддержаных машинах в городе Москва с сайта [auto.ru](https://auto.ru/) по списку брендов после 20.02.2022 г. (ввиду смены верстки страниц сайта)
+
 [Choose_a_car_profitably2.ipynb](Choose_a_car_profitably2.ipynb) - ноутбук с полным и еда выводами, а также переобучением модели, вызванное большим колличеством данных
+
 [APP6.ipynb](APP6.ipynb) - первый ноут бук с первым беглым EDA не имеющий дополнительных данных полученных при парсинге и результатом зафиксированном на [Kaggle](https://www.kaggle.com)
 
 ## Выводы:
